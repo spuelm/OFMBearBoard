@@ -10,7 +10,7 @@
 	(title_block
 		(title "OFMSimpleBoard")
 		(date "2024-06-02")
-		(rev "1.1")
+		(rev "1.0.1 (Dicker)")
 	)
 	(layers
 		(0 "F.Cu" signal)
@@ -5593,7 +5593,7 @@
 			(justify left bottom)
 		)
 	)
-	(gr_text "OFMBearBoard 1.0 (Bruno)"
+	(gr_text "OFMBearBoard 1.0.1 (Dicker)"
 		(at 81.5 78.5 90)
 		(layer "F.SilkS")
 		(uuid "e97c1cf8-fb8c-4213-8ee6-617df119521d")
@@ -5605,7 +5605,7 @@
 			(justify left bottom)
 		)
 	)
-	(gr_text "J6, J7: JST PH2 / J8, J9, J10: JST XH5\n﻿CERN Open Hardware Licence Version 2, no waranty!"
+	(gr_text "J6, J7: JST PH2 / J8, J9, J10: JST XH5\n﻿CERN Open Hardware Licence Version 2, no warranty!"
 		(at 86 79 90)
 		(layer "F.SilkS")
 		(uuid "f3de2075-5604-4fcb-8478-0d6f8098724d")
